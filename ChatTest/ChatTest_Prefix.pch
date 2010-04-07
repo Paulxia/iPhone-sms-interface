@@ -1,0 +1,8 @@
+//
+// Prefix header for all source files of the 'ChatTest' target in the 'ChatTest' project
+//
+
+#ifdef __OBJC__
+    #import <Foundation/Foundation.h>
+    #import <UIKit/UIKit.h>
+#endif

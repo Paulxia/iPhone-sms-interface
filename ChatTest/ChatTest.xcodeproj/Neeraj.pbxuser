@@ -1,0 +1,252 @@
+// !$*UTF8*$!
+{
+	07176BB5114CC64A00AF4491 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 0747859E10D1D2AB00A54FEE /* ChatBoxView.m */;
+		name = "ChatBoxView.m: 32";
+		rLen = 0;
+		rLoc = 524;
+		rType = 0;
+		vrLen = 213;
+		vrLoc = 217;
+	};
+	072A2F8F10E085CE0011678E /* ChatTestViewController.m:101 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 28D7ACF70DDB3853001CB0EB /* ChatTestViewController.m */;
+		functionName = "-viewDidLoad";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 101;
+		location = ChatTest;
+		modificationTime = 292321511.540153;
+		originalNumberOfMultipleMatches = 0;
+		state = 2;
+	};
+	072A2F9F10E086340011678E /* asm -[UIViewController view]  0x309753e8 */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = text;
+		path = "asm -[UIViewController view]  0x309753e8";
+		sourceTree = "<group>";
+	};
+	072A2FA110E086340011678E /* asm -[UIViewController view]  0x309753e8:45 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 072A2F9F10E086340011678E /* asm -[UIViewController view]  0x309753e8 */;
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 45;
+		modificationTime = 292321511.540221;
+		originalNumberOfMultipleMatches = 0;
+		state = 1;
+	};
+	0747859D10D1D2AB00A54FEE /* ChatBoxView.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {622, 380}}";
+			sepNavSelRange = "{273, 0}";
+			sepNavVisRange = "{166, 208}";
+			sepNavWindowFrame = "{{62, -4}, {1232, 777}}";
+		};
+	};
+	0747859E10D1D2AB00A54FEE /* ChatBoxView.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1332, 1178}}";
+			sepNavSelRange = "{1220, 0}";
+			sepNavVisRange = "{398, 1147}";
+			sepNavWindowFrame = "{{49, 0}, {1231, 777}}";
+		};
+	};
+	077024D7114A4EEF00E629D0 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF60DDB3853001CB0EB /* ChatTestViewController.h */;
+		name = "ChatTestViewController.h: 22";
+		rLen = 0;
+		rLoc = 474;
+		rType = 0;
+		vrLen = 428;
+		vrLoc = 433;
+	};
+	07AC2D9810C75E97007F5954 /* ChatTest */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 1;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = ChatTest;
+		savedGlobals = {
+		};
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+		variableFormatDictionary = {
+			$cs = 1;
+			$ds = 1;
+			$eax = 1;
+			$ebp = 1;
+			$ebx = 1;
+			$ecx = 1;
+			$edi = 1;
+			$edx = 1;
+			$eflags = 1;
+			$eip = 1;
+			$es = 1;
+			$esi = 1;
+			$esp = 1;
+			$fs = 1;
+			$gs = 1;
+			$mxcsr = 1;
+			$ss = 1;
+		};
+	};
+	07AC2DA310C75EB7007F5954 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryName = ChatTestRepo;
+			repositoryNamesForRoots = {
+				"" = ChatTestRepo;
+			};
+		};
+	};
+	07AC2DA410C75EB7007F5954 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	07F1A472116C6B4500FE27D6 /* deleteme.PNG */ = {
+		uiCtxt = {
+			sepNavWindowFrame = "{{50, 7}, {1230, 766}}";
+		};
+	};
+	07F1A4BD116C795200FE27D6 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* ChatTestViewController.m */;
+		name = "ChatTestViewController.m: 96";
+		rLen = 0;
+		rLoc = 2527;
+		rType = 0;
+		vrLen = 324;
+		vrLoc = 2479;
+	};
+	07F1A4BE116C795200FE27D6 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 0747859D10D1D2AB00A54FEE /* ChatBoxView.h */;
+		name = "ChatBoxView.h: 17";
+		rLen = 0;
+		rLoc = 273;
+		rType = 0;
+		vrLen = 208;
+		vrLoc = 166;
+	};
+	07F1A4D8116C799E00FE27D6 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 0747859D10D1D2AB00A54FEE /* ChatBoxView.h */;
+		name = "ChatBoxView.h: 17";
+		rLen = 0;
+		rLoc = 273;
+		rType = 0;
+		vrLen = 208;
+		vrLoc = 166;
+	};
+	1D6058900D05DD3D006BFB54 /* ChatTest */ = {
+		activeExec = 0;
+		executables = (
+			07AC2D9810C75E97007F5954 /* ChatTest */,
+		);
+	};
+	28D7ACF60DDB3853001CB0EB /* ChatTestViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1172, 684}}";
+			sepNavSelRange = "{474, 0}";
+			sepNavVisRange = "{0, 867}";
+			sepNavWindowFrame = "{{62, -4}, {1232, 777}}";
+		};
+	};
+	28D7ACF70DDB3853001CB0EB /* ChatTestViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1012, 2546}}";
+			sepNavSelRange = "{2527, 0}";
+			sepNavVisRange = "{2479, 324}";
+			sepNavWindowFrame = "{{49, 0}, {1231, 777}}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 07AC2D9810C75E97007F5954 /* ChatTest */;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* ChatTest */;
+		addToTargets = (
+			1D6058900D05DD3D006BFB54 /* ChatTest */,
+		);
+		breakpoints = (
+			072A2F8F10E085CE0011678E /* ChatTestViewController.m:101 */,
+			072A2FA110E086340011678E /* asm -[UIViewController view]  0x309753e8:45 */,
+		);
+		codeSenseManager = 07AC2DA410C75EB7007F5954 /* Code sense */;
+		executables = (
+			07AC2D9810C75E97007F5954 /* ChatTest */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = 1;
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Target_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					286,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 292321631;
+			PBXWorkspaceStateSaveDate = 292321631;
+		};
+		perUserProjectItems = {
+			07176BB5114CC64A00AF4491 /* PBXTextBookmark */ = 07176BB5114CC64A00AF4491 /* PBXTextBookmark */;
+			077024D7114A4EEF00E629D0 /* PBXTextBookmark */ = 077024D7114A4EEF00E629D0 /* PBXTextBookmark */;
+			07F1A4BD116C795200FE27D6 /* PBXTextBookmark */ = 07F1A4BD116C795200FE27D6 /* PBXTextBookmark */;
+			07F1A4BE116C795200FE27D6 /* PBXTextBookmark */ = 07F1A4BE116C795200FE27D6 /* PBXTextBookmark */;
+			07F1A4D8116C799E00FE27D6 /* PBXTextBookmark */ = 07F1A4D8116C799E00FE27D6 /* PBXTextBookmark */;
+		};
+		sourceControlManager = 07AC2DA310C75EB7007F5954 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+}
